@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "name": "Html 5 game",
+    "slug": "html5-app",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "68fbe79e-0b51-486d-8108-cf6bf0ad7119"
+      }
+    },
+    "owner": "bybrawe",
+    "android": {
+      "package": "com.bybrawe.html5app"
+    }
+  }
+}
